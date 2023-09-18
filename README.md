@@ -10,3 +10,6 @@ This is a simple script that allows you to retrieve the JA3 signature of a Pytho
 
 2 - Execute the script using Python:
 ```python script.py```
+
+## Forum Post
+https://enzoberry.fr/posts/ja3/
